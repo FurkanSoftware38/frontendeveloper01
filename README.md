@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @frontendeveloper01
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning javascript
-
+- 👀 I’m interested in frontend and backend
+- 🌱 I’m currently learning javascript 
 
 <!---
 frontendeveloper01/frontendeveloper01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
